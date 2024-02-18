@@ -1,4 +1,4 @@
-# SOCIO-MASAI
+# SOCIAL-M
 
 # A Fullstack Social Media App for POSTS
 
