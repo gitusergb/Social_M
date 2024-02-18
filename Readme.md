@@ -2,6 +2,53 @@
 
 # A Fullstack Social Media App for POSTS
 
+## about Fullstack Social M App     
+ - Basic Posts web app built with **React** ,**Express**
+ - website where after **login** 
+ - one can **create** a post
+ - **Edit,Delete** his/her post.
+ - All rights reserved by Gauri Bidwai.
+ - Copyright &copy; 2024 Social M post App.
+          
+
+### Check : https://luxury-cobbler-78396e.netlify.app/
+
+## Getting Started
+
+### OutPut: 
+
+- Front
+![Capture 1]()
+
+- SignUp 
+![Capture 2]()
+
+- Login
+![Capture 3]()
+
+- Users post 
+![Capture 4]()
+
+- Create post
+![Capture 5]()
+
+- Update post
+![Capture 6]()
+
+---
+
+### Prerequisites
+
+Make sure you have Node.js installed on your machine. You can download it from [here](https://nodejs.org/).
+
+### Installation
+
+1. Clone the repository.
+
+   git clone https://github.com/gitusergb/*****
+
+### Backend link :https://social-xbrk.onrender.com/
+
 ## Backend
 - I had to build an Express application. 
 - There are following API endpoints that are present . 
